@@ -1,0 +1,73 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "小美满日历"
+		}
+	},
+	{
+		"path" : "pages/post/post",
+		"style" : 
+		{
+			"navigationBarTitleText" : "美满打卡"
+		}
+	},
+	{
+		"path" : "pages/oldalmanac/oldalmanac",
+		"style" : 
+		{
+			"navigationBarTitleText" : "老黄历"
+		}
+	},
+	{
+		"path" : "pages/moyu/moyu",
+		"style" : 
+		{
+			"navigationBarTitleText" : "摸鱼"
+		}
+	},
+	{
+		"path" : "pages/picture/picture",
+		"style" : 
+		{
+			"navigationBarTitleText" : "壁纸"
+		}
+	},
+	{
+		"path" : "pages/details/details",
+		"style" : 
+		{
+			"navigationBarTitleText" : "壁纸下载"
+		}
+	},
+	{
+		"path" : "pages/retire/retire",
+		"style" : 
+		{
+			"navigationBarTitleText" : "退休年龄计算"
+		}
+	},
+	{
+		"path" : "pages/bloodtype/bloodtype",
+		"style" : 
+		{
+			"navigationBarTitleText" : "血型查询"
+		}
+	},
+	{
+		"path" : "pages/banner/banner",
+		"style" : 
+		{
+			"navigationBarTitleText" : ""
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "小美满日历",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
